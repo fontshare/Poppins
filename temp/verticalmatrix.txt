@@ -1,0 +1,10 @@
+name:Poppins
+weight:400
+win_a:1040
+win_d:350
+typo_a:1040
+typo_d:-350
+hhea_a:1040
+hhea_d:-350
+hhea_l:90
+typo_l:90
